@@ -32,7 +32,7 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "fd414d843fabef893727061253c21776",
 "/": "fd414d843fabef893727061253c21776",
-"main.dart.js": "7673567975d71ad9b5025179b18ec914",
+"main.dart.js": "b882a0641c94ed4b4ec9337aefa295fe",
 "manifest.json": "287015e56d3c65c0e1410c3e5b5bb8a3",
 "version.json": "4f17588c79b6635be5446559c4fbcafe"
 };
